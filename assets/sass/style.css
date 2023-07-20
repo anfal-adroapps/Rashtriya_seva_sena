@@ -497,7 +497,7 @@ section#banner{
   -webkit-backface-visibility: hidden;
   z-index: 1;
   position: relative;
-  font-size: 18px;
+  font-size: 13px;
   background: -webkit-gradient(linear, left top, right top, color-stop(11.32%, #ED6B37), color-stop(95.28%, #EC180C));
   background: linear-gradient(90deg, #ED6B37 11.32%, #EC180C 95.28%);
   font-family: "Futura PT";
